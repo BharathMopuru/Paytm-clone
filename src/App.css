@@ -1,0 +1,43 @@
+*{
+    margin: 0;
+    padding: 0
+}
+.containere {
+    margin: 0 auto;
+    width: 1200px;
+    border: 1px solid
+}
+.flex {
+    display: flex
+}
+
+.logo {
+    width: 15%;
+    padding: 10px 30px
+}
+
+/* nav menu */
+.nav {
+    width: 70%;
+    padding: 11px 20px;
+}
+
+/* un-order list styling */
+ul {
+    list-style-type: none;
+}
+
+/* navigation Styles */
+.nav-links li {
+    padding: 10px;
+    margin-right: 10px;
+}
+
+/* sign in button */
+
+.btnSignIn {
+    width: 15%;
+    padding: 10px 16px;
+    align-items: center;
+    justify-content: center;
+}
